@@ -42,4 +42,4 @@ for i in range(T):
     data=int(input())
     root=myTree.insert(root,data)
 height=myTree.getHeight(root)
-print(height)       
+print(height)        
