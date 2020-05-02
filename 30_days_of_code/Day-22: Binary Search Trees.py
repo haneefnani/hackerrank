@@ -14,7 +14,7 @@ class Solution:
                 cur=self.insert(root.right,data)
                 root.right=cur
         return root
-    def __init__(self, data): 
+    def __init__(self, data):
         self.right = self.left = None
         self.data = data
 
