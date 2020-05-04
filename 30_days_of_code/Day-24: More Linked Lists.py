@@ -8,4 +8,3 @@ def removeDuplicates(self,head):
             current = current.next
 
     return head
- 
