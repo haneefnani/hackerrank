@@ -14,3 +14,4 @@ t = int(input())
 for i in range(t):
     number = int(input())
     print(check_prime(number))
+ 
