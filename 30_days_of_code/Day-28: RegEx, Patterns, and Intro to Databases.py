@@ -16,5 +16,3 @@ arr.sort()
 
 for name in arr:
     print(name)
- 
- 
