@@ -1,4 +1,4 @@
-# Read a full line of input from stdin an
+# Read a full line of inpu
 input_string = input()
 
 # Print a string literal saying "Hello, World." to stdout.
